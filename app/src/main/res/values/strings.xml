@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListApp</string>
+    <string-array name="Options">
+        <item>Select</item>
+        <item>Background Color</item>
+        <item>Add Button Color</item>
+        <item>List Button Color</item>
+    </string-array>
+</resources>
